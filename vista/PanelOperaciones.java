@@ -38,7 +38,7 @@ public class PanelOperaciones extends JPanel
         add(lbImagen);
 
         //Crear y agregar boton Agregar plan
-        btCalcularAgregarPlan = new JButton("Calcular Plan");
+        btCalcularAgregarPlan = new JButton("Calcular Costo Plan");
         btCalcularAgregarPlan.setBounds(10,20,150,20);
         btCalcularAgregarPlan.setActionCommand("costo");
         this.add(btCalcularAgregarPlan);

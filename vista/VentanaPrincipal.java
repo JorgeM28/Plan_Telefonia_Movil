@@ -43,12 +43,13 @@ public class VentanaPrincipal extends JFrame
         miPanelResultados.setBackground(Color.decode("#ABDEE6"));
 
         //Caracteristicas de la ventana
-        this.setTitle("Calculadora de Planes de Telefonía");
+        this.setTitle("Jorge Martínez Campos - 2224764");
         this.setSize(400,600);
         this.setLocationRelativeTo(null);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.setResizable(false);
         this.setVisible(true);
+        this.setBackground(Color.decode("#ABDEE6"));
     }
 
 
